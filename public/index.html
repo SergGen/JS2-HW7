@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Интернет-магазин</title>
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+    <header class="header">
+        <div class="basket">
+            <filter-basket></filter-basket>
+            <basket ref="cart"></basket>
+        </div>
+    </header>
+    <main>
+        <products ref="products"></products>
+        <error ref="error"></error>
+    </main>
+</div>
+
+<script src="js/vue.js"></script>
+<script src="js/basket.js"></script>
+<script src="js/products.js"></script>
+<script src="js/filter.js"></script>
+<script src="js/errorMessage.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
