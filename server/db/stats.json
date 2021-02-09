@@ -1,0 +1,67 @@
+[
+    {
+        "time": "09 Feb 2021, 2:21:32 am",
+        "prod_name": "Колонки",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 2:21:32 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 2:21:34 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 2:21:35 am",
+        "prod_name": "Колонки",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 2:21:35 am",
+        "prod_name": "Клавиатура",
+        "action": "remove"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:15 am",
+        "prod_name": "Колонки",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:15 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:16 am",
+        "prod_name": "Клавиатура",
+        "action": "add"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:19 am",
+        "prod_name": "Ноутбук",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:20 am",
+        "prod_name": "Колонки",
+        "action": "change"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:20 am",
+        "prod_name": "Клавиатура",
+        "action": "remove"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:21 am",
+        "prod_name": "Колонки",
+        "action": "remove"
+    },
+    {
+        "time": "09 Feb 2021, 5:43:22 am",
+        "prod_name": "Ноутбук",
+        "action": "remove"
+    }
+]

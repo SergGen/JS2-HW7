@@ -1,0 +1,44 @@
+[
+  {
+    "id_product": 835,
+    "product_name": "Клавиатура",
+    "price": 200,
+    "img-url": "img/keyboard.jpg"
+  },
+  {
+    "id_product": 457,
+    "product_name": "Колонки",
+    "price": 130,
+    "img-url": "img/soundbar.jpg"
+  },
+  {
+    "id_product": 123,
+    "product_name": "Ноутбук",
+    "price": 400,
+    "img-url": "img/notebook.png"
+  },
+  {
+    "id_product": 456,
+    "product_name": "Мышка",
+    "price": 100,
+    "img-url": "img/mouse.jpg"
+  },
+  {
+    "id_product": 984,
+    "product_name": "Наушники",
+    "price": 150,
+    "img-url": "img/headphones.jpg"
+  },
+  {
+    "id_product": 347,
+    "product_name": "Коврик",
+    "price": 150,
+    "img-url": "img/mousepad.jpg"
+  },
+  {
+    "id_product": 483,
+    "product_name": "Кресло",
+    "price": 160,
+    "img-url": "img/chair.png"
+  }
+]
